@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm fortyl!
+## Hi there 👋, I'm fortyl!
 
 * I currently know JavaScript, and NodeJS
 * I am currently learning Java & the Spigot API
